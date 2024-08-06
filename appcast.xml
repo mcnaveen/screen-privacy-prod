@@ -3,12 +3,12 @@
     <channel>
         <title>Screen Privacy</title>
         <item>
-            <title>0.3</title>
-            <pubDate>Tue, 06 Aug 2024 23:26:53 +0530</pubDate>
-            <sparkle:version>0.3</sparkle:version>
-            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+            <title>0.4</title>
+            <pubDate>Tue, 06 Aug 2024 23:46:07 +0530</pubDate>
+            <sparkle:version>0.4</sparkle:version>
+            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/mcnaveen/screen-privacy-prod/releases/download/prod/screen-privacy-0.3.dmg" length="2715058" type="application/octet-stream" sparkle:edSignature="GdVzTlmTdO8uKv/rT+50ffOLDO4GQyYg1AJniyCze4uflf5ploHT4FH5LeVQNZlclOpyrbYu3p0El1tQaiKeBw=="/>
+            <enclosure url="https://github.com/mcnaveen/screen-privacy-prod/releases/download/prod/screen-privacy-0.4.dmg" length="2715682" type="application/octet-stream" sparkle:edSignature="FRWMjTuBgmQAnJB8UB5it1Fvu+M2Ud8jsQEA+ZFOu6Wigbph2rSb3D8j7dgt7sttqawdhKrlz+wkbVuIV3qlCg=="/>
         </item>
     </channel>
 </rss>
